@@ -1,2 +1,1 @@
-# demo-pizza
-sample from thinkful
+# pizza
